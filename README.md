@@ -208,7 +208,7 @@ The Groq-hosted GPT-OSS 20B model uses the provided context to generate a natura
 
 ### 3. AI Generated Answer
 
-![AI Generated Answer](screenshot\answer.png)
+![AI Generated Answer](screenshots\answer.png)
 
 ## 🔮 Future Enhancements
 
