@@ -196,6 +196,20 @@ The retrieved document chunks are added to the prompt as context along with the 
 
 The Groq-hosted GPT-OSS 20B model uses the provided context to generate a natural-language answer.
 
+## 📸 Application Screenshots
+
+### 1. Chatbot Interface
+
+![Chatbot Interface](screenshots/chatbot.png)
+
+### 2. PDF Upload
+
+![PDF Upload](screenshots/uploadedpdf.png)
+
+### 3. AI Generated Answer
+
+![AI Generated Answer](screenshot\answer.png)
+
 ## 🔮 Future Enhancements
 
 - Support for multiple PDF documents.
