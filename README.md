@@ -226,7 +226,7 @@ The Groq-hosted GPT-OSS 20B model uses the provided context to generate a natura
 
 GitHub: https://github.com/ADII877
 
-LinkedIn: Add your LinkedIn profile URL.
+LinkedIn: www.linkedin.com/in/aditya-sadekar-42b7b6306  
 
 ---
 
